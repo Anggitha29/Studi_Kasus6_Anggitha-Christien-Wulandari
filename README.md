@@ -8,7 +8,6 @@ Kelas: A
 
 ### Penjelasan Kode Program
 
-Penjelasan Kode Program
 
 1. **Import JSON**
    Digunakan untuk mengolah dan menyimpan data dalam format JSON.
