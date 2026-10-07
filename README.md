@@ -1,7 +1,9 @@
 # Studi_Kasus6_Anggitha-Christien-Wulandari
 
 Nama: Anggitha Christien Wulandari
+
 NIM: 2609116036
+
 Kelas: A
 
 ### Penjelasan Kode Program
