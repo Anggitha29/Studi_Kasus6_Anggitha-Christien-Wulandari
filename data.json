@@ -1,0 +1,34 @@
+[
+    {
+        "kode_barang": "M001",
+        "nama": "Roti",
+        "kategori": "Makanan",
+        "harga": 5000,
+        "stok": 10,
+        "satuan": "pcs"
+    },
+    {
+        "kode_barang": "M002",
+        "nama": "Biskuit",
+        "kategori": "Makanan",
+        "harga": 6000,
+        "stok": 15,
+        "satuan": "pcs"
+    },
+    {
+        "kode_barang": "MN001",
+        "nama": "Teh Botol",
+        "kategori": "Minuman",
+        "harga": 5000,
+        "stok": 20,
+        "satuan": "pcs"
+    },
+    {
+        "kode_barang": "AT001",
+        "nama": "Buku Tulis",
+        "kategori": "Alat Tulis",
+        "harga": 5000,
+        "stok": 15,
+        "satuan": "pcs"
+    }
+]
