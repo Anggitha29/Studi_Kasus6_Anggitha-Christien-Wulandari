@@ -49,7 +49,7 @@ Kelas: A
 
 **1. Menu Utama**
 
-<img width="593" height="112" alt="Screenshot 2026-10-07 213743" src="https://github.com/user-attachments/assets/e0b96ee0-03e6-4e5c-a464-7f61bd763dbd" />
+<img width=700 alt="Screenshot 2026-10-07 213743" src="https://github.com/user-attachments/assets/e0b96ee0-03e6-4e5c-a464-7f61bd763dbd" />
 
 Saat program pertama kali dijalankan, program menampilkan menu utama yang terdiri dari pilihan menampilkan data barang, menambahkan data barang, dan keluar dari program.
 
@@ -61,7 +61,7 @@ Pengguna memilih menu nomor 1 untuk melihat data barang. Program menampilkan dat
 
 **3. Pilihan Kategori Barang**
 
-<img width=300 alt="Screenshot 2026-10-07 213926" src="https://github.com/user-attachments/assets/d8e35886-6c08-4fad-969d-c289bd8ffc56" />
+<img width=350 alt="Screenshot 2026-10-07 213926" src="https://github.com/user-attachments/assets/d8e35886-6c08-4fad-969d-c289bd8ffc56" />
 
 Pengguna memilih menu nomor 2 untuk menambahkan data barang. Program menampilkan pilihan kategori, yaitu Makanan, Minuman, dan Alat Tulis.
 
@@ -73,7 +73,7 @@ Pengguna memilih kategori Makanan dan memasukkan data barang Biskuit. Data baran
 
 **5. Memilih Kategori Minuman**
 
-<img width=300 alt="Screenshot 2026-10-07 214125" src="https://github.com/user-attachments/assets/0d47b734-b67c-49d9-9b39-4b882262bd4b" />
+<img width=350 alt="Screenshot 2026-10-07 214125" src="https://github.com/user-attachments/assets/0d47b734-b67c-49d9-9b39-4b882262bd4b" />
 
 Program kembali ke menu utama. Pengguna memilih menu nomor 2 dan memilih kategori Minuman untuk menambahkan data barang.
 
@@ -115,7 +115,7 @@ Program dijalankan kembali dan pengguna memilih menu nomor 1. Data yang sebelumn
 
 ### Output Lengkap
 
-<img width="610" height="425" alt="Screenshot 2026-10-07 215827" src="https://github.com/user-attachments/assets/55178a1c-fb2d-44eb-9a0a-da9acef98ff0" />
+<img width=700 alt="Screenshot 2026-10-07 215827" src="https://github.com/user-attachments/assets/55178a1c-fb2d-44eb-9a0a-da9acef98ff0" />
 
 
 
@@ -127,7 +127,7 @@ Program dijalankan kembali dan pengguna memilih menu nomor 1. Data yang sebelumn
 
 
 
-<img width="605" height="420" alt="Screenshot 2026-10-07 215946" src="https://github.com/user-attachments/assets/773a085a-3409-4aab-ba4e-6d510dfbd636" />
+<img width=700 alt="Screenshot 2026-10-07 215946" src="https://github.com/user-attachments/assets/773a085a-3409-4aab-ba4e-6d510dfbd636" />
 
 
 
